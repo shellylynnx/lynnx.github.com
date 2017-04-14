@@ -1,2 +1,2 @@
 # lynnx.github.com
-:sparkles: Personal website of Shelly Lynn Xiong 
+:sparkles: Personal website of Shelly Lynn Xiong :sparkles:
